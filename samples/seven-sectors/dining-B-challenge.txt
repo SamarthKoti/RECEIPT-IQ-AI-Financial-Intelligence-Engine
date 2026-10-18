@@ -1,0 +1,81 @@
+DEMO GARDEN RESTAURANT
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+------------------------------------------------------
+2 x Vegetable Soup                          300.00
+2 x Paneer Curry                            650.00
+1 x Rice Bowl                               140.00
+1 x Roti                                     60.00
+1 x Salad                                   100.00
+1 x Lemonade                                 90.00
+1 x Dessert                                 180.00
+1 x Tea                                      50.00
+3 x Vegetable Soup Lot 2                    360.70
+3 x Paneer Curry Lot 2                      780.70
+3 x Rice Bowl Lot 2                         420.70
+3 x Roti Lot 2                              180.70
+3 x Salad Lot 2                             300.70
+3 x Lemonade Lot 2                          270.70
+3 x Dessert Lot 2                           540.70
+3 x Tea Lot 2                               150.70
+1 x Vegetable Soup Lot 3                    121.05
+1 x Paneer Curry Lot 3                      261.05
+1 x Rice Bowl Lot 3                         141.05
+1 x Roti Lot 3                               61.05
+1 x Salad Lot 3                             101.05
+1 x Lemonade Lot 3                           91.05
+1 x Dessert Lot 3                           181.05
+1 x Tea Lot 3                                51.05
+2 x Vegetable Soup Lot 4                    241.40
+2 x Paneer Curry Lot 4                      521.40
+2 x Rice Bowl Lot 4                         281.40
+2 x Roti Lot 4                              121.40
+2 x Salad Lot 4                             201.40
+2 x Lemonade Lot 4                          181.40
+2 x Dessert Lot 4                           361.40
+2 x Tea Lot 4                               101.40
+3 x Vegetable Soup Lot 5                    361.75
+3 x Paneer Curry Lot 5                      781.75
+3 x Rice Bowl Lot 5                         421.75
+3 x Roti Lot 5                              181.75
+3 x Salad Lot 5                             301.75
+3 x Lemonade Lot 5                          271.75
+3 x Dessert Lot 5                           541.75
+3 x Tea Lot 5                               151.75
+1 x Vegetable Soup Lot 6                    122.10
+1 x Paneer Curry Lot 6                      262.10
+1 x Rice Bowl Lot 6                         142.10
+1 x Roti Lot 6                               62.10
+1 x Salad Lot 6                             102.10
+1 x Lemonade Lot 6                           92.10
+1 x Dessert Lot 6                           182.10
+1 x Tea Lot 6                                52.10
+2 x Vegetable Soup Lot 7                    242.45
+2 x Paneer Curry Lot 7                      522.45
+2 x Rice Bowl Lot 7                         282.45
+2 x Roti Lot 7                              122.45
+2 x Salad Lot 7                             202.45
+2 x Lemonade Lot 7                          182.45
+2 x Dessert Lot 7                           362.45
+2 x Tea Lot 7                               102.45
+3 x Vegetable Soup Lot 8                    362.80
+3 x Paneer Curry Lot 8                      782.80
+3 x Rice Bowl Lot 8                         422.80
+3 x Roti Lot 8                              182.80
+3 x Salad Lot 8                             302.80
+3 x Lemonade Lot 8                          272.80
+3 x Dessert Lot 8                           542.80
+3 x Tea Lot 8                               152.80
+1 x Dessert Lot 3                           181.05
+1 x Tea Lot 6                                52.10
+------------------------------------------------------
+Subtotal                                  16763.90
+CGST                                        419.10
+SGST                                        419.10
+Service charge                             3352.78
+Discount                                    120.75
+Rounding                                     -0.25
+TOTAL                                     21083.87
+------------------------------------------------------
+Receipt IQ synthetic test receipt

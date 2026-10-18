@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/pages.tsx","./src/types.ts","./src/components/detailedanalytics.tsx","./src/components/receipt-ui.tsx","./src/pages/dashboard.tsx","./src/pages/insights.tsx","./src/pages/library.tsx","./src/pages/receiptpage.tsx","./src/pages/scan.tsx","./src/pages/settings.tsx"],"version":"5.7.3"}

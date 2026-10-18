@@ -1,0 +1,383 @@
+{
+  "file": "02-history-60-items.png",
+  "date": "2026-09-10",
+  "currency": "INR",
+  "category": "Groceries",
+  "item_count": 60,
+  "items": [
+    {
+      "name": "Milk",
+      "quantity": "1000",
+      "unit": "ml",
+      "amount": "60.00"
+    },
+    {
+      "name": "Bread",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "57.25"
+    },
+    {
+      "name": "Rice",
+      "quantity": "1",
+      "unit": "kg",
+      "amount": "100.00"
+    },
+    {
+      "name": "Coffee Beans",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "91.25"
+    },
+    {
+      "name": "Brown Lentils",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "108.25"
+    },
+    {
+      "name": "Red Lentils",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "125.25"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "142.25"
+    },
+    {
+      "name": "Sunflower Oil",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "159.25"
+    },
+    {
+      "name": "Rolled Oats",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "176.25"
+    },
+    {
+      "name": "Almonds",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "193.25"
+    },
+    {
+      "name": "Cashews",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "210.25"
+    },
+    {
+      "name": "Wheat Flour",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "227.25"
+    },
+    {
+      "name": "Sugar",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "244.25"
+    },
+    {
+      "name": "Salt",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "261.25"
+    },
+    {
+      "name": "Black Tea",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "278.25"
+    },
+    {
+      "name": "Green Tea",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "295.25"
+    },
+    {
+      "name": "Yogurt",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "52.25"
+    },
+    {
+      "name": "Butter",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "69.25"
+    },
+    {
+      "name": "Cheese",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "86.25"
+    },
+    {
+      "name": "Apples",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "103.25"
+    },
+    {
+      "name": "Milk Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "120.25"
+    },
+    {
+      "name": "Bread Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "137.25"
+    },
+    {
+      "name": "Rice Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "154.25"
+    },
+    {
+      "name": "Coffee Beans Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "171.25"
+    },
+    {
+      "name": "Brown Lentils Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "188.25"
+    },
+    {
+      "name": "Red Lentils Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "205.25"
+    },
+    {
+      "name": "Olive Oil Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "222.25"
+    },
+    {
+      "name": "Sunflower Oil Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "239.25"
+    },
+    {
+      "name": "Rolled Oats Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "256.25"
+    },
+    {
+      "name": "Almonds Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "273.25"
+    },
+    {
+      "name": "Cashews Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "290.25"
+    },
+    {
+      "name": "Wheat Flour Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "47.25"
+    },
+    {
+      "name": "Sugar Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "64.25"
+    },
+    {
+      "name": "Salt Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "81.25"
+    },
+    {
+      "name": "Black Tea Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "98.25"
+    },
+    {
+      "name": "Green Tea Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "115.25"
+    },
+    {
+      "name": "Yogurt Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "132.25"
+    },
+    {
+      "name": "Butter Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "149.25"
+    },
+    {
+      "name": "Cheese Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "166.25"
+    },
+    {
+      "name": "Apples Batch 2",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "183.25"
+    },
+    {
+      "name": "Milk Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "200.25"
+    },
+    {
+      "name": "Bread Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "217.25"
+    },
+    {
+      "name": "Rice Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "234.25"
+    },
+    {
+      "name": "Coffee Beans Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "251.25"
+    },
+    {
+      "name": "Brown Lentils Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "268.25"
+    },
+    {
+      "name": "Red Lentils Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "285.25"
+    },
+    {
+      "name": "Olive Oil Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "42.25"
+    },
+    {
+      "name": "Sunflower Oil Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "59.25"
+    },
+    {
+      "name": "Rolled Oats Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "76.25"
+    },
+    {
+      "name": "Almonds Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "93.25"
+    },
+    {
+      "name": "Cashews Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "110.25"
+    },
+    {
+      "name": "Wheat Flour Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "127.25"
+    },
+    {
+      "name": "Sugar Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "144.25"
+    },
+    {
+      "name": "Salt Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "161.25"
+    },
+    {
+      "name": "Black Tea Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "178.25"
+    },
+    {
+      "name": "Green Tea Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "195.25"
+    },
+    {
+      "name": "Yogurt Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "212.25"
+    },
+    {
+      "name": "Butter Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "229.25"
+    },
+    {
+      "name": "Cheese Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "246.25"
+    },
+    {
+      "name": "Apples Batch 3",
+      "quantity": "1",
+      "unit": "each",
+      "amount": "263.25"
+    }
+  ],
+  "item_sum": "9930.50",
+  "subtotal": "9930.50",
+  "tax": "496.52",
+  "fees": "0",
+  "discount": "125.75",
+  "rounding": "-0.25",
+  "expected_total_from_printed_subtotal": "10301.02",
+  "printed_total": "10301.02",
+  "subtotal_difference": "0",
+  "total_difference": "0",
+  "pixels": [
+    1200,
+    3044
+  ]
+}

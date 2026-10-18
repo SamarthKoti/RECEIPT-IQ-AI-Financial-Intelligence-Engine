@@ -1,0 +1,344 @@
+{
+  "category": "Dining",
+  "item_count": 66,
+  "item_sum": "16901.15",
+  "subtotal": "16763.90",
+  "tax": "838.20",
+  "fees": "3352.78",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "20833.88",
+  "printed_total": "21083.87",
+  "items": [
+    {
+      "name": "Vegetable Soup",
+      "quantity": 2,
+      "amount": "300.00"
+    },
+    {
+      "name": "Paneer Curry",
+      "quantity": 2,
+      "amount": "650.00"
+    },
+    {
+      "name": "Rice Bowl",
+      "quantity": 1,
+      "amount": "140"
+    },
+    {
+      "name": "Roti",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Salad",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Lemonade",
+      "quantity": 1,
+      "amount": "90"
+    },
+    {
+      "name": "Dessert",
+      "quantity": 1,
+      "amount": "180"
+    },
+    {
+      "name": "Tea",
+      "quantity": 1,
+      "amount": "50"
+    },
+    {
+      "name": "Vegetable Soup Lot 2",
+      "quantity": 3,
+      "amount": "360.70"
+    },
+    {
+      "name": "Paneer Curry Lot 2",
+      "quantity": 3,
+      "amount": "780.70"
+    },
+    {
+      "name": "Rice Bowl Lot 2",
+      "quantity": 3,
+      "amount": "420.70"
+    },
+    {
+      "name": "Roti Lot 2",
+      "quantity": 3,
+      "amount": "180.70"
+    },
+    {
+      "name": "Salad Lot 2",
+      "quantity": 3,
+      "amount": "300.70"
+    },
+    {
+      "name": "Lemonade Lot 2",
+      "quantity": 3,
+      "amount": "270.70"
+    },
+    {
+      "name": "Dessert Lot 2",
+      "quantity": 3,
+      "amount": "540.70"
+    },
+    {
+      "name": "Tea Lot 2",
+      "quantity": 3,
+      "amount": "150.70"
+    },
+    {
+      "name": "Vegetable Soup Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Paneer Curry Lot 3",
+      "quantity": 1,
+      "amount": "261.05"
+    },
+    {
+      "name": "Rice Bowl Lot 3",
+      "quantity": 1,
+      "amount": "141.05"
+    },
+    {
+      "name": "Roti Lot 3",
+      "quantity": 1,
+      "amount": "61.05"
+    },
+    {
+      "name": "Salad Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Lemonade Lot 3",
+      "quantity": 1,
+      "amount": "91.05"
+    },
+    {
+      "name": "Dessert Lot 3",
+      "quantity": 1,
+      "amount": "181.05"
+    },
+    {
+      "name": "Tea Lot 3",
+      "quantity": 1,
+      "amount": "51.05"
+    },
+    {
+      "name": "Vegetable Soup Lot 4",
+      "quantity": 2,
+      "amount": "241.40"
+    },
+    {
+      "name": "Paneer Curry Lot 4",
+      "quantity": 2,
+      "amount": "521.40"
+    },
+    {
+      "name": "Rice Bowl Lot 4",
+      "quantity": 2,
+      "amount": "281.40"
+    },
+    {
+      "name": "Roti Lot 4",
+      "quantity": 2,
+      "amount": "121.40"
+    },
+    {
+      "name": "Salad Lot 4",
+      "quantity": 2,
+      "amount": "201.40"
+    },
+    {
+      "name": "Lemonade Lot 4",
+      "quantity": 2,
+      "amount": "181.40"
+    },
+    {
+      "name": "Dessert Lot 4",
+      "quantity": 2,
+      "amount": "361.40"
+    },
+    {
+      "name": "Tea Lot 4",
+      "quantity": 2,
+      "amount": "101.40"
+    },
+    {
+      "name": "Vegetable Soup Lot 5",
+      "quantity": 3,
+      "amount": "361.75"
+    },
+    {
+      "name": "Paneer Curry Lot 5",
+      "quantity": 3,
+      "amount": "781.75"
+    },
+    {
+      "name": "Rice Bowl Lot 5",
+      "quantity": 3,
+      "amount": "421.75"
+    },
+    {
+      "name": "Roti Lot 5",
+      "quantity": 3,
+      "amount": "181.75"
+    },
+    {
+      "name": "Salad Lot 5",
+      "quantity": 3,
+      "amount": "301.75"
+    },
+    {
+      "name": "Lemonade Lot 5",
+      "quantity": 3,
+      "amount": "271.75"
+    },
+    {
+      "name": "Dessert Lot 5",
+      "quantity": 3,
+      "amount": "541.75"
+    },
+    {
+      "name": "Tea Lot 5",
+      "quantity": 3,
+      "amount": "151.75"
+    },
+    {
+      "name": "Vegetable Soup Lot 6",
+      "quantity": 1,
+      "amount": "122.10"
+    },
+    {
+      "name": "Paneer Curry Lot 6",
+      "quantity": 1,
+      "amount": "262.10"
+    },
+    {
+      "name": "Rice Bowl Lot 6",
+      "quantity": 1,
+      "amount": "142.10"
+    },
+    {
+      "name": "Roti Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    },
+    {
+      "name": "Salad Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    },
+    {
+      "name": "Lemonade Lot 6",
+      "quantity": 1,
+      "amount": "92.10"
+    },
+    {
+      "name": "Dessert Lot 6",
+      "quantity": 1,
+      "amount": "182.10"
+    },
+    {
+      "name": "Tea Lot 6",
+      "quantity": 1,
+      "amount": "52.10"
+    },
+    {
+      "name": "Vegetable Soup Lot 7",
+      "quantity": 2,
+      "amount": "242.45"
+    },
+    {
+      "name": "Paneer Curry Lot 7",
+      "quantity": 2,
+      "amount": "522.45"
+    },
+    {
+      "name": "Rice Bowl Lot 7",
+      "quantity": 2,
+      "amount": "282.45"
+    },
+    {
+      "name": "Roti Lot 7",
+      "quantity": 2,
+      "amount": "122.45"
+    },
+    {
+      "name": "Salad Lot 7",
+      "quantity": 2,
+      "amount": "202.45"
+    },
+    {
+      "name": "Lemonade Lot 7",
+      "quantity": 2,
+      "amount": "182.45"
+    },
+    {
+      "name": "Dessert Lot 7",
+      "quantity": 2,
+      "amount": "362.45"
+    },
+    {
+      "name": "Tea Lot 7",
+      "quantity": 2,
+      "amount": "102.45"
+    },
+    {
+      "name": "Vegetable Soup Lot 8",
+      "quantity": 3,
+      "amount": "362.80"
+    },
+    {
+      "name": "Paneer Curry Lot 8",
+      "quantity": 3,
+      "amount": "782.80"
+    },
+    {
+      "name": "Rice Bowl Lot 8",
+      "quantity": 3,
+      "amount": "422.80"
+    },
+    {
+      "name": "Roti Lot 8",
+      "quantity": 3,
+      "amount": "182.80"
+    },
+    {
+      "name": "Salad Lot 8",
+      "quantity": 3,
+      "amount": "302.80"
+    },
+    {
+      "name": "Lemonade Lot 8",
+      "quantity": 3,
+      "amount": "272.80"
+    },
+    {
+      "name": "Dessert Lot 8",
+      "quantity": 3,
+      "amount": "542.80"
+    },
+    {
+      "name": "Tea Lot 8",
+      "quantity": 3,
+      "amount": "152.80"
+    },
+    {
+      "name": "Dessert Lot 3",
+      "quantity": 1,
+      "amount": "181.05"
+    },
+    {
+      "name": "Tea Lot 6",
+      "quantity": 1,
+      "amount": "52.10"
+    }
+  ]
+}

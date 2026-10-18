@@ -1,0 +1,81 @@
+DEMO COMMUNITY SERVICES
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+------------------------------------------------------
+2 x Workshop Admission                     1125.00
+2 x Craft Materials                         450.00
+1 x Club Membership                         300.00
+1 x Locker Rental                            80.00
+1 x Printing                                 60.00
+1 x Event Admission                         250.00
+1 x Garden Visit                            120.00
+1 x Equipment Hire                          200.00
+3 x Workshop Admission Lot 2               1350.70
+3 x Craft Materials Lot 2                   540.70
+3 x Club Membership Lot 2                   900.70
+3 x Locker Rental Lot 2                     240.70
+3 x Printing Lot 2                          180.70
+3 x Event Admission Lot 2                   750.70
+3 x Garden Visit Lot 2                      360.70
+3 x Equipment Hire Lot 2                    600.70
+1 x Workshop Admission Lot 3                451.05
+1 x Craft Materials Lot 3                   181.05
+1 x Club Membership Lot 3                   301.05
+1 x Locker Rental Lot 3                      81.05
+1 x Printing Lot 3                           61.05
+1 x Event Admission Lot 3                   251.05
+1 x Garden Visit Lot 3                      121.05
+1 x Equipment Hire Lot 3                    201.05
+2 x Workshop Admission Lot 4                901.40
+2 x Craft Materials Lot 4                   361.40
+2 x Club Membership Lot 4                   601.40
+2 x Locker Rental Lot 4                     161.40
+2 x Printing Lot 4                          121.40
+2 x Event Admission Lot 4                   501.40
+2 x Garden Visit Lot 4                      241.40
+2 x Equipment Hire Lot 4                    401.40
+3 x Workshop Admission Lot 5               1351.75
+3 x Craft Materials Lot 5                   541.75
+3 x Club Membership Lot 5                   901.75
+3 x Locker Rental Lot 5                     241.75
+3 x Printing Lot 5                          181.75
+3 x Event Admission Lot 5                   751.75
+3 x Garden Visit Lot 5                      361.75
+3 x Equipment Hire Lot 5                    601.75
+1 x Workshop Admission Lot 6                452.10
+1 x Craft Materials Lot 6                   182.10
+1 x Club Membership Lot 6                   302.10
+1 x Locker Rental Lot 6                      82.10
+1 x Printing Lot 6                           62.10
+1 x Event Admission Lot 6                   252.10
+1 x Garden Visit Lot 6                      122.10
+1 x Equipment Hire Lot 6                    202.10
+2 x Workshop Admission Lot 7                902.45
+2 x Craft Materials Lot 7                   362.45
+2 x Club Membership Lot 7                   602.45
+2 x Locker Rental Lot 7                     162.45
+2 x Printing Lot 7                          122.45
+2 x Event Admission Lot 7                   502.45
+2 x Garden Visit Lot 7                      242.45
+2 x Equipment Hire Lot 7                    402.45
+3 x Workshop Admission Lot 8               1352.80
+3 x Craft Materials Lot 8                   542.80
+3 x Club Membership Lot 8                   902.80
+3 x Locker Rental Lot 8                     242.80
+3 x Printing Lot 8                          182.80
+3 x Event Admission Lot 8                   752.80
+3 x Garden Visit Lot 8                      362.80
+3 x Equipment Hire Lot 8                    602.80
+1 x Garden Visit Lot 3                      121.05
+1 x Equipment Hire Lot 6                    202.10
+------------------------------------------------------
+Subtotal                                  27468.90
+CGST                                        686.72
+SGST                                        686.72
+Service charge                             5493.78
+Discount                                    120.75
+Rounding                                     -0.25
+TOTAL                                     34465.11
+------------------------------------------------------
+Receipt IQ synthetic test receipt

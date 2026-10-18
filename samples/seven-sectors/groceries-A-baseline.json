@@ -1,0 +1,54 @@
+{
+  "category": "Groceries",
+  "item_count": 8,
+  "item_sum": "800",
+  "subtotal": "800",
+  "tax": "40.00",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "820.00",
+  "printed_total": "820.00",
+  "items": [
+    {
+      "name": "Milk",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Bread",
+      "quantity": 1,
+      "amount": "40"
+    },
+    {
+      "name": "Rice",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Lentils",
+      "quantity": 1,
+      "amount": "90"
+    },
+    {
+      "name": "Apples",
+      "quantity": 1,
+      "amount": "150"
+    },
+    {
+      "name": "Eggs",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Cheese",
+      "quantity": 1,
+      "amount": "160"
+    }
+  ]
+}

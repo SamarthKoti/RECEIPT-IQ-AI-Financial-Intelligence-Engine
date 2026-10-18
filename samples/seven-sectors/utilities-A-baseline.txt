@@ -1,0 +1,21 @@
+DEMO HOME UTILITY SERVICES
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Broadband Internet                      699.00
+1 x Water Supply                            250.00
+1 x Electricity                            1250.00
+1 x Mobile Recharge                         299.00
+1 x Waste Collection                        150.00
+1 x Gas Supply                              850.00
+1 x Telephone Plan                          199.00
+1 x Equipment Rental                        100.00
+------------------------------------------------------
+Subtotal                                   3797.00
+Tax                                         189.85
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      3966.85
+------------------------------------------------------
+Receipt IQ synthetic test receipt

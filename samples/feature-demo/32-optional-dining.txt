@@ -1,0 +1,16 @@
+DEMO CORNER CAFE
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-09-20
+Currency: INR
+----------------------------------------
+1 x Sandwich                    180.00
+1 x Tea                          40.00
+----------------------------------------
+Subtotal                        220.00
+Tax                              11.00
+Service charge                    0.00
+Discount                          0.00
+Rounding                          0.00
+TOTAL                           231.00
+----------------------------------------
+Receipt IQ testing sample only

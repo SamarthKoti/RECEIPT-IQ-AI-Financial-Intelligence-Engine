@@ -1,0 +1,54 @@
+{
+  "category": "Utilities",
+  "item_count": 8,
+  "item_sum": "3797",
+  "subtotal": "3797",
+  "tax": "189.85",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "3966.85",
+  "printed_total": "3966.85",
+  "items": [
+    {
+      "name": "Broadband Internet",
+      "quantity": 1,
+      "amount": "699"
+    },
+    {
+      "name": "Water Supply",
+      "quantity": 1,
+      "amount": "250"
+    },
+    {
+      "name": "Electricity",
+      "quantity": 1,
+      "amount": "1250"
+    },
+    {
+      "name": "Mobile Recharge",
+      "quantity": 1,
+      "amount": "299"
+    },
+    {
+      "name": "Waste Collection",
+      "quantity": 1,
+      "amount": "150"
+    },
+    {
+      "name": "Gas Supply",
+      "quantity": 1,
+      "amount": "850"
+    },
+    {
+      "name": "Telephone Plan",
+      "quantity": 1,
+      "amount": "199"
+    },
+    {
+      "name": "Equipment Rental",
+      "quantity": 1,
+      "amount": "100"
+    }
+  ]
+}

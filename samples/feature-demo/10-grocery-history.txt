@@ -1,0 +1,18 @@
+DEMO FRESH MARKET
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-08-15
+Currency: INR
+----------------------------------------
+1000 ml x Milk                   60.00
+1 x Bread                        40.00
+1 kg x Rice                      90.00
+1 x Coffee Beans                100.00
+----------------------------------------
+Subtotal                        290.00
+Tax                               0.00
+Service charge                    0.00
+Discount                          0.00
+Rounding                          0.00
+TOTAL                           290.00
+----------------------------------------
+Receipt IQ testing sample only

@@ -1,0 +1,81 @@
+DEMO HOME UTILITY SERVICES
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+------------------------------------------------------
+2 x Broadband Internet                     1747.50
+2 x Water Supply                            625.00
+1 x Electricity                            1250.00
+1 x Mobile Recharge                         299.00
+1 x Waste Collection                        150.00
+1 x Gas Supply                              850.00
+1 x Telephone Plan                          199.00
+1 x Equipment Rental                        100.00
+3 x Broadband Internet Lot 2               2097.70
+3 x Water Supply Lot 2                      750.70
+3 x Electricity Lot 2                      3750.70
+3 x Mobile Recharge Lot 2                   897.70
+3 x Waste Collection Lot 2                  450.70
+3 x Gas Supply Lot 2                       2550.70
+3 x Telephone Plan Lot 2                    597.70
+3 x Equipment Rental Lot 2                  300.70
+1 x Broadband Internet Lot 3                700.05
+1 x Water Supply Lot 3                      251.05
+1 x Electricity Lot 3                      1251.05
+1 x Mobile Recharge Lot 3                   300.05
+1 x Waste Collection Lot 3                  151.05
+1 x Gas Supply Lot 3                        851.05
+1 x Telephone Plan Lot 3                    200.05
+1 x Equipment Rental Lot 3                  101.05
+2 x Broadband Internet Lot 4               1399.40
+2 x Water Supply Lot 4                      501.40
+2 x Electricity Lot 4                      2501.40
+2 x Mobile Recharge Lot 4                   599.40
+2 x Waste Collection Lot 4                  301.40
+2 x Gas Supply Lot 4                       1701.40
+2 x Telephone Plan Lot 4                    399.40
+2 x Equipment Rental Lot 4                  201.40
+3 x Broadband Internet Lot 5               2098.75
+3 x Water Supply Lot 5                      751.75
+3 x Electricity Lot 5                      3751.75
+3 x Mobile Recharge Lot 5                   898.75
+3 x Waste Collection Lot 5                  451.75
+3 x Gas Supply Lot 5                       2551.75
+3 x Telephone Plan Lot 5                    598.75
+3 x Equipment Rental Lot 5                  301.75
+1 x Broadband Internet Lot 6                701.10
+1 x Water Supply Lot 6                      252.10
+1 x Electricity Lot 6                      1252.10
+1 x Mobile Recharge Lot 6                   301.10
+1 x Waste Collection Lot 6                  152.10
+1 x Gas Supply Lot 6                        852.10
+1 x Telephone Plan Lot 6                    201.10
+1 x Equipment Rental Lot 6                  102.10
+2 x Broadband Internet Lot 7               1400.45
+2 x Water Supply Lot 7                      502.45
+2 x Electricity Lot 7                      2502.45
+2 x Mobile Recharge Lot 7                   600.45
+2 x Waste Collection Lot 7                  302.45
+2 x Gas Supply Lot 7                       1702.45
+2 x Telephone Plan Lot 7                    400.45
+2 x Equipment Rental Lot 7                  202.45
+3 x Broadband Internet Lot 8               2099.80
+3 x Water Supply Lot 8                      752.80
+3 x Electricity Lot 8                      3752.80
+3 x Mobile Recharge Lot 8                   899.80
+3 x Waste Collection Lot 8                  452.80
+3 x Gas Supply Lot 8                       2552.80
+3 x Telephone Plan Lot 8                    599.80
+3 x Equipment Rental Lot 8                  302.80
+1 x Telephone Plan Lot 3                    200.05
+1 x Equipment Rental Lot 6                  102.10
+------------------------------------------------------
+Subtotal                                  62438.40
+CGST                                       1560.96
+SGST                                       1560.96
+Service charge                            12487.68
+Discount                                    120.75
+Rounding                                     -0.25
+TOTAL                                     78176.99
+------------------------------------------------------
+Receipt IQ synthetic test receipt

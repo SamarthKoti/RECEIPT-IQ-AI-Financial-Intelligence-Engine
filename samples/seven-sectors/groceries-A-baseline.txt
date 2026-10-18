@@ -1,0 +1,21 @@
+DEMO FRESH GROCERY MARKET
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Milk                                     60.00
+1 x Bread                                    40.00
+1 x Rice                                    100.00
+1 x Lentils                                  90.00
+1 x Apples                                  150.00
+1 x Eggs                                     80.00
+1 x Butter                                  120.00
+1 x Cheese                                  160.00
+------------------------------------------------------
+Subtotal                                    800.00
+Tax                                          40.00
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                       820.00
+------------------------------------------------------
+Receipt IQ synthetic test receipt

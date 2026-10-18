@@ -1,0 +1,54 @@
+{
+  "category": "Dining",
+  "item_count": 8,
+  "item_sum": "1000",
+  "subtotal": "1000",
+  "tax": "50.00",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "1030.00",
+  "printed_total": "1030.00",
+  "items": [
+    {
+      "name": "Vegetable Soup",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Paneer Curry",
+      "quantity": 1,
+      "amount": "260"
+    },
+    {
+      "name": "Rice Bowl",
+      "quantity": 1,
+      "amount": "140"
+    },
+    {
+      "name": "Roti",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Salad",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Lemonade",
+      "quantity": 1,
+      "amount": "90"
+    },
+    {
+      "name": "Dessert",
+      "quantity": 1,
+      "amount": "180"
+    },
+    {
+      "name": "Tea",
+      "quantity": 1,
+      "amount": "50"
+    }
+  ]
+}

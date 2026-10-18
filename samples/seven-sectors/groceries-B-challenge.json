@@ -1,0 +1,344 @@
+{
+  "category": "Groceries",
+  "item_count": 66,
+  "item_sum": "13331.15",
+  "subtotal": "13193.90",
+  "tax": "659.70",
+  "fees": "2638.78",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "16371.38",
+  "printed_total": "16621.37",
+  "items": [
+    {
+      "name": "Milk",
+      "quantity": 2,
+      "amount": "150.00"
+    },
+    {
+      "name": "Bread",
+      "quantity": 2,
+      "amount": "100.00"
+    },
+    {
+      "name": "Rice",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Lentils",
+      "quantity": 1,
+      "amount": "90"
+    },
+    {
+      "name": "Apples",
+      "quantity": 1,
+      "amount": "150"
+    },
+    {
+      "name": "Eggs",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Butter",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Cheese",
+      "quantity": 1,
+      "amount": "160"
+    },
+    {
+      "name": "Milk Lot 2",
+      "quantity": 3,
+      "amount": "180.70"
+    },
+    {
+      "name": "Bread Lot 2",
+      "quantity": 3,
+      "amount": "120.70"
+    },
+    {
+      "name": "Rice Lot 2",
+      "quantity": 3,
+      "amount": "300.70"
+    },
+    {
+      "name": "Lentils Lot 2",
+      "quantity": 3,
+      "amount": "270.70"
+    },
+    {
+      "name": "Apples Lot 2",
+      "quantity": 3,
+      "amount": "450.70"
+    },
+    {
+      "name": "Eggs Lot 2",
+      "quantity": 3,
+      "amount": "240.70"
+    },
+    {
+      "name": "Butter Lot 2",
+      "quantity": 3,
+      "amount": "360.70"
+    },
+    {
+      "name": "Cheese Lot 2",
+      "quantity": 3,
+      "amount": "480.70"
+    },
+    {
+      "name": "Milk Lot 3",
+      "quantity": 1,
+      "amount": "61.05"
+    },
+    {
+      "name": "Bread Lot 3",
+      "quantity": 1,
+      "amount": "41.05"
+    },
+    {
+      "name": "Rice Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Lentils Lot 3",
+      "quantity": 1,
+      "amount": "91.05"
+    },
+    {
+      "name": "Apples Lot 3",
+      "quantity": 1,
+      "amount": "151.05"
+    },
+    {
+      "name": "Eggs Lot 3",
+      "quantity": 1,
+      "amount": "81.05"
+    },
+    {
+      "name": "Butter Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Cheese Lot 3",
+      "quantity": 1,
+      "amount": "161.05"
+    },
+    {
+      "name": "Milk Lot 4",
+      "quantity": 2,
+      "amount": "121.40"
+    },
+    {
+      "name": "Bread Lot 4",
+      "quantity": 2,
+      "amount": "81.40"
+    },
+    {
+      "name": "Rice Lot 4",
+      "quantity": 2,
+      "amount": "201.40"
+    },
+    {
+      "name": "Lentils Lot 4",
+      "quantity": 2,
+      "amount": "181.40"
+    },
+    {
+      "name": "Apples Lot 4",
+      "quantity": 2,
+      "amount": "301.40"
+    },
+    {
+      "name": "Eggs Lot 4",
+      "quantity": 2,
+      "amount": "161.40"
+    },
+    {
+      "name": "Butter Lot 4",
+      "quantity": 2,
+      "amount": "241.40"
+    },
+    {
+      "name": "Cheese Lot 4",
+      "quantity": 2,
+      "amount": "321.40"
+    },
+    {
+      "name": "Milk Lot 5",
+      "quantity": 3,
+      "amount": "181.75"
+    },
+    {
+      "name": "Bread Lot 5",
+      "quantity": 3,
+      "amount": "121.75"
+    },
+    {
+      "name": "Rice Lot 5",
+      "quantity": 3,
+      "amount": "301.75"
+    },
+    {
+      "name": "Lentils Lot 5",
+      "quantity": 3,
+      "amount": "271.75"
+    },
+    {
+      "name": "Apples Lot 5",
+      "quantity": 3,
+      "amount": "451.75"
+    },
+    {
+      "name": "Eggs Lot 5",
+      "quantity": 3,
+      "amount": "241.75"
+    },
+    {
+      "name": "Butter Lot 5",
+      "quantity": 3,
+      "amount": "361.75"
+    },
+    {
+      "name": "Cheese Lot 5",
+      "quantity": 3,
+      "amount": "481.75"
+    },
+    {
+      "name": "Milk Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    },
+    {
+      "name": "Bread Lot 6",
+      "quantity": 1,
+      "amount": "42.10"
+    },
+    {
+      "name": "Rice Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    },
+    {
+      "name": "Lentils Lot 6",
+      "quantity": 1,
+      "amount": "92.10"
+    },
+    {
+      "name": "Apples Lot 6",
+      "quantity": 1,
+      "amount": "152.10"
+    },
+    {
+      "name": "Eggs Lot 6",
+      "quantity": 1,
+      "amount": "82.10"
+    },
+    {
+      "name": "Butter Lot 6",
+      "quantity": 1,
+      "amount": "122.10"
+    },
+    {
+      "name": "Cheese Lot 6",
+      "quantity": 1,
+      "amount": "162.10"
+    },
+    {
+      "name": "Milk Lot 7",
+      "quantity": 2,
+      "amount": "122.45"
+    },
+    {
+      "name": "Bread Lot 7",
+      "quantity": 2,
+      "amount": "82.45"
+    },
+    {
+      "name": "Rice Lot 7",
+      "quantity": 2,
+      "amount": "202.45"
+    },
+    {
+      "name": "Lentils Lot 7",
+      "quantity": 2,
+      "amount": "182.45"
+    },
+    {
+      "name": "Apples Lot 7",
+      "quantity": 2,
+      "amount": "302.45"
+    },
+    {
+      "name": "Eggs Lot 7",
+      "quantity": 2,
+      "amount": "162.45"
+    },
+    {
+      "name": "Butter Lot 7",
+      "quantity": 2,
+      "amount": "242.45"
+    },
+    {
+      "name": "Cheese Lot 7",
+      "quantity": 2,
+      "amount": "322.45"
+    },
+    {
+      "name": "Milk Lot 8",
+      "quantity": 3,
+      "amount": "182.80"
+    },
+    {
+      "name": "Bread Lot 8",
+      "quantity": 3,
+      "amount": "122.80"
+    },
+    {
+      "name": "Rice Lot 8",
+      "quantity": 3,
+      "amount": "302.80"
+    },
+    {
+      "name": "Lentils Lot 8",
+      "quantity": 3,
+      "amount": "272.80"
+    },
+    {
+      "name": "Apples Lot 8",
+      "quantity": 3,
+      "amount": "452.80"
+    },
+    {
+      "name": "Eggs Lot 8",
+      "quantity": 3,
+      "amount": "242.80"
+    },
+    {
+      "name": "Butter Lot 8",
+      "quantity": 3,
+      "amount": "362.80"
+    },
+    {
+      "name": "Cheese Lot 8",
+      "quantity": 3,
+      "amount": "482.80"
+    },
+    {
+      "name": "Butter Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Cheese Lot 6",
+      "quantity": 1,
+      "amount": "162.10"
+    }
+  ]
+}

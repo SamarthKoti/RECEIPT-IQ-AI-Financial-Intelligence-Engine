@@ -1,0 +1,21 @@
+DEMO GARDEN RESTAURANT
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Vegetable Soup                          120.00
+1 x Paneer Curry                            260.00
+1 x Rice Bowl                               140.00
+1 x Roti                                     60.00
+1 x Salad                                   100.00
+1 x Lemonade                                 90.00
+1 x Dessert                                 180.00
+1 x Tea                                      50.00
+------------------------------------------------------
+Subtotal                                   1000.00
+Tax                                          50.00
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      1030.00
+------------------------------------------------------
+Receipt IQ synthetic test receipt

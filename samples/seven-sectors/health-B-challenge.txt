@@ -1,0 +1,81 @@
+DEMO HEALTH PHARMACY
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+------------------------------------------------------
+2 x Vitamin Supplement                      600.00
+2 x Bandages                                200.00
+1 x Thermometer                             350.00
+1 x Hand Sanitizer                          120.00
+1 x Oral Care Kit                           190.00
+1 x First Aid Kit                           450.00
+1 x Face Masks                              100.00
+1 x Cotton Pads                              60.00
+3 x Vitamin Supplement Lot 2                720.70
+3 x Bandages Lot 2                          240.70
+3 x Thermometer Lot 2                      1050.70
+3 x Hand Sanitizer Lot 2                    360.70
+3 x Oral Care Kit Lot 2                     570.70
+3 x First Aid Kit Lot 2                    1350.70
+3 x Face Masks Lot 2                        300.70
+3 x Cotton Pads Lot 2                       180.70
+1 x Vitamin Supplement Lot 3                241.05
+1 x Bandages Lot 3                           81.05
+1 x Thermometer Lot 3                       351.05
+1 x Hand Sanitizer Lot 3                    121.05
+1 x Oral Care Kit Lot 3                     191.05
+1 x First Aid Kit Lot 3                     451.05
+1 x Face Masks Lot 3                        101.05
+1 x Cotton Pads Lot 3                        61.05
+2 x Vitamin Supplement Lot 4                481.40
+2 x Bandages Lot 4                          161.40
+2 x Thermometer Lot 4                       701.40
+2 x Hand Sanitizer Lot 4                    241.40
+2 x Oral Care Kit Lot 4                     381.40
+2 x First Aid Kit Lot 4                     901.40
+2 x Face Masks Lot 4                        201.40
+2 x Cotton Pads Lot 4                       121.40
+3 x Vitamin Supplement Lot 5                721.75
+3 x Bandages Lot 5                          241.75
+3 x Thermometer Lot 5                      1051.75
+3 x Hand Sanitizer Lot 5                    361.75
+3 x Oral Care Kit Lot 5                     571.75
+3 x First Aid Kit Lot 5                    1351.75
+3 x Face Masks Lot 5                        301.75
+3 x Cotton Pads Lot 5                       181.75
+1 x Vitamin Supplement Lot 6                242.10
+1 x Bandages Lot 6                           82.10
+1 x Thermometer Lot 6                       352.10
+1 x Hand Sanitizer Lot 6                    122.10
+1 x Oral Care Kit Lot 6                     192.10
+1 x First Aid Kit Lot 6                     452.10
+1 x Face Masks Lot 6                        102.10
+1 x Cotton Pads Lot 6                        62.10
+2 x Vitamin Supplement Lot 7                482.45
+2 x Bandages Lot 7                          162.45
+2 x Thermometer Lot 7                       702.45
+2 x Hand Sanitizer Lot 7                    242.45
+2 x Oral Care Kit Lot 7                     382.45
+2 x First Aid Kit Lot 7                     902.45
+2 x Face Masks Lot 7                        202.45
+2 x Cotton Pads Lot 7                       122.45
+3 x Vitamin Supplement Lot 8                722.80
+3 x Bandages Lot 8                          242.80
+3 x Thermometer Lot 8                      1052.80
+3 x Hand Sanitizer Lot 8                    362.80
+3 x Oral Care Kit Lot 8                     572.80
+3 x First Aid Kit Lot 8                    1352.80
+3 x Face Masks Lot 8                        302.80
+3 x Cotton Pads Lot 8                       182.80
+1 x Face Masks Lot 3                        101.05
+1 x Cotton Pads Lot 6                        62.10
+------------------------------------------------------
+Subtotal                                  26043.90
+CGST                                        651.10
+SGST                                        651.10
+Service charge                             5208.78
+Discount                                    120.75
+Rounding                                     -0.25
+TOTAL                                     32683.87
+------------------------------------------------------
+Receipt IQ synthetic test receipt

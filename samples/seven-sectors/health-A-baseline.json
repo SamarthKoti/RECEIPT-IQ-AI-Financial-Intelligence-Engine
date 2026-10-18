@@ -1,0 +1,54 @@
+{
+  "category": "Health",
+  "item_count": 8,
+  "item_sum": "1590",
+  "subtotal": "1590",
+  "tax": "79.50",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "1649.50",
+  "printed_total": "1649.50",
+  "items": [
+    {
+      "name": "Vitamin Supplement",
+      "quantity": 1,
+      "amount": "240"
+    },
+    {
+      "name": "Bandages",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Thermometer",
+      "quantity": 1,
+      "amount": "350"
+    },
+    {
+      "name": "Hand Sanitizer",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Oral Care Kit",
+      "quantity": 1,
+      "amount": "190"
+    },
+    {
+      "name": "First Aid Kit",
+      "quantity": 1,
+      "amount": "450"
+    },
+    {
+      "name": "Face Masks",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Cotton Pads",
+      "quantity": 1,
+      "amount": "60"
+    }
+  ]
+}

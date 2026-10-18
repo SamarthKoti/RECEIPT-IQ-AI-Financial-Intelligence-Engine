@@ -1,0 +1,21 @@
+DEMO CITY TRANSPORT
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Metro ticket                             60.00
+1 x Bus ticket                               40.00
+1 x Airport shuttle                         350.00
+1 x Taxi ride                               220.00
+1 x Parking                                  80.00
+1 x Toll                                    100.00
+1 x Train ticket                            180.00
+1 x Bicycle rental                           70.00
+------------------------------------------------------
+Subtotal                                   1100.00
+Tax                                          55.00
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      1135.00
+------------------------------------------------------
+Receipt IQ synthetic test receipt

@@ -1,0 +1,21 @@
+DEMO HEALTH PHARMACY
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Vitamin Supplement                      240.00
+1 x Bandages                                 80.00
+1 x Thermometer                             350.00
+1 x Hand Sanitizer                          120.00
+1 x Oral Care Kit                           190.00
+1 x First Aid Kit                           450.00
+1 x Face Masks                              100.00
+1 x Cotton Pads                              60.00
+------------------------------------------------------
+Subtotal                                   1590.00
+Tax                                          79.50
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      1649.50
+------------------------------------------------------
+Receipt IQ synthetic test receipt

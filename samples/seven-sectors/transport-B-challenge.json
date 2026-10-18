@@ -1,0 +1,344 @@
+{
+  "category": "Transport",
+  "item_count": 66,
+  "item_sum": "18101.15",
+  "subtotal": "17963.90",
+  "tax": "898.20",
+  "fees": "3592.78",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "22333.88",
+  "printed_total": "22583.87",
+  "items": [
+    {
+      "name": "Metro ticket",
+      "quantity": 2,
+      "amount": "150.00"
+    },
+    {
+      "name": "Bus ticket",
+      "quantity": 2,
+      "amount": "100.00"
+    },
+    {
+      "name": "Airport shuttle",
+      "quantity": 1,
+      "amount": "350"
+    },
+    {
+      "name": "Taxi ride",
+      "quantity": 1,
+      "amount": "220"
+    },
+    {
+      "name": "Parking",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Toll",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Train ticket",
+      "quantity": 1,
+      "amount": "180"
+    },
+    {
+      "name": "Bicycle rental",
+      "quantity": 1,
+      "amount": "70"
+    },
+    {
+      "name": "Metro ticket Lot 2",
+      "quantity": 3,
+      "amount": "180.70"
+    },
+    {
+      "name": "Bus ticket Lot 2",
+      "quantity": 3,
+      "amount": "120.70"
+    },
+    {
+      "name": "Airport shuttle Lot 2",
+      "quantity": 3,
+      "amount": "1050.70"
+    },
+    {
+      "name": "Taxi ride Lot 2",
+      "quantity": 3,
+      "amount": "660.70"
+    },
+    {
+      "name": "Parking Lot 2",
+      "quantity": 3,
+      "amount": "240.70"
+    },
+    {
+      "name": "Toll Lot 2",
+      "quantity": 3,
+      "amount": "300.70"
+    },
+    {
+      "name": "Train ticket Lot 2",
+      "quantity": 3,
+      "amount": "540.70"
+    },
+    {
+      "name": "Bicycle rental Lot 2",
+      "quantity": 3,
+      "amount": "210.70"
+    },
+    {
+      "name": "Metro ticket Lot 3",
+      "quantity": 1,
+      "amount": "61.05"
+    },
+    {
+      "name": "Bus ticket Lot 3",
+      "quantity": 1,
+      "amount": "41.05"
+    },
+    {
+      "name": "Airport shuttle Lot 3",
+      "quantity": 1,
+      "amount": "351.05"
+    },
+    {
+      "name": "Taxi ride Lot 3",
+      "quantity": 1,
+      "amount": "221.05"
+    },
+    {
+      "name": "Parking Lot 3",
+      "quantity": 1,
+      "amount": "81.05"
+    },
+    {
+      "name": "Toll Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Train ticket Lot 3",
+      "quantity": 1,
+      "amount": "181.05"
+    },
+    {
+      "name": "Bicycle rental Lot 3",
+      "quantity": 1,
+      "amount": "71.05"
+    },
+    {
+      "name": "Metro ticket Lot 4",
+      "quantity": 2,
+      "amount": "121.40"
+    },
+    {
+      "name": "Bus ticket Lot 4",
+      "quantity": 2,
+      "amount": "81.40"
+    },
+    {
+      "name": "Airport shuttle Lot 4",
+      "quantity": 2,
+      "amount": "701.40"
+    },
+    {
+      "name": "Taxi ride Lot 4",
+      "quantity": 2,
+      "amount": "441.40"
+    },
+    {
+      "name": "Parking Lot 4",
+      "quantity": 2,
+      "amount": "161.40"
+    },
+    {
+      "name": "Toll Lot 4",
+      "quantity": 2,
+      "amount": "201.40"
+    },
+    {
+      "name": "Train ticket Lot 4",
+      "quantity": 2,
+      "amount": "361.40"
+    },
+    {
+      "name": "Bicycle rental Lot 4",
+      "quantity": 2,
+      "amount": "141.40"
+    },
+    {
+      "name": "Metro ticket Lot 5",
+      "quantity": 3,
+      "amount": "181.75"
+    },
+    {
+      "name": "Bus ticket Lot 5",
+      "quantity": 3,
+      "amount": "121.75"
+    },
+    {
+      "name": "Airport shuttle Lot 5",
+      "quantity": 3,
+      "amount": "1051.75"
+    },
+    {
+      "name": "Taxi ride Lot 5",
+      "quantity": 3,
+      "amount": "661.75"
+    },
+    {
+      "name": "Parking Lot 5",
+      "quantity": 3,
+      "amount": "241.75"
+    },
+    {
+      "name": "Toll Lot 5",
+      "quantity": 3,
+      "amount": "301.75"
+    },
+    {
+      "name": "Train ticket Lot 5",
+      "quantity": 3,
+      "amount": "541.75"
+    },
+    {
+      "name": "Bicycle rental Lot 5",
+      "quantity": 3,
+      "amount": "211.75"
+    },
+    {
+      "name": "Metro ticket Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    },
+    {
+      "name": "Bus ticket Lot 6",
+      "quantity": 1,
+      "amount": "42.10"
+    },
+    {
+      "name": "Airport shuttle Lot 6",
+      "quantity": 1,
+      "amount": "352.10"
+    },
+    {
+      "name": "Taxi ride Lot 6",
+      "quantity": 1,
+      "amount": "222.10"
+    },
+    {
+      "name": "Parking Lot 6",
+      "quantity": 1,
+      "amount": "82.10"
+    },
+    {
+      "name": "Toll Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    },
+    {
+      "name": "Train ticket Lot 6",
+      "quantity": 1,
+      "amount": "182.10"
+    },
+    {
+      "name": "Bicycle rental Lot 6",
+      "quantity": 1,
+      "amount": "72.10"
+    },
+    {
+      "name": "Metro ticket Lot 7",
+      "quantity": 2,
+      "amount": "122.45"
+    },
+    {
+      "name": "Bus ticket Lot 7",
+      "quantity": 2,
+      "amount": "82.45"
+    },
+    {
+      "name": "Airport shuttle Lot 7",
+      "quantity": 2,
+      "amount": "702.45"
+    },
+    {
+      "name": "Taxi ride Lot 7",
+      "quantity": 2,
+      "amount": "442.45"
+    },
+    {
+      "name": "Parking Lot 7",
+      "quantity": 2,
+      "amount": "162.45"
+    },
+    {
+      "name": "Toll Lot 7",
+      "quantity": 2,
+      "amount": "202.45"
+    },
+    {
+      "name": "Train ticket Lot 7",
+      "quantity": 2,
+      "amount": "362.45"
+    },
+    {
+      "name": "Bicycle rental Lot 7",
+      "quantity": 2,
+      "amount": "142.45"
+    },
+    {
+      "name": "Metro ticket Lot 8",
+      "quantity": 3,
+      "amount": "182.80"
+    },
+    {
+      "name": "Bus ticket Lot 8",
+      "quantity": 3,
+      "amount": "122.80"
+    },
+    {
+      "name": "Airport shuttle Lot 8",
+      "quantity": 3,
+      "amount": "1052.80"
+    },
+    {
+      "name": "Taxi ride Lot 8",
+      "quantity": 3,
+      "amount": "662.80"
+    },
+    {
+      "name": "Parking Lot 8",
+      "quantity": 3,
+      "amount": "242.80"
+    },
+    {
+      "name": "Toll Lot 8",
+      "quantity": 3,
+      "amount": "302.80"
+    },
+    {
+      "name": "Train ticket Lot 8",
+      "quantity": 3,
+      "amount": "542.80"
+    },
+    {
+      "name": "Bicycle rental Lot 8",
+      "quantity": 3,
+      "amount": "212.80"
+    },
+    {
+      "name": "Train ticket Lot 3",
+      "quantity": 1,
+      "amount": "181.05"
+    },
+    {
+      "name": "Bicycle rental Lot 6",
+      "quantity": 1,
+      "amount": "72.10"
+    }
+  ]
+}

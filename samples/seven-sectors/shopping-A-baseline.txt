@@ -1,0 +1,21 @@
+DEMO CLOTHING RETAIL STORE
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Cotton Shirt                            799.00
+1 x Jeans                                  1299.00
+1 x Socks                                   149.00
+1 x Belt                                    399.00
+1 x Shoes                                  1799.00
+1 x Cap                                     249.00
+1 x Scarf                                   349.00
+1 x Tote Bag                                299.00
+------------------------------------------------------
+Subtotal                                   5342.00
+Tax                                         267.10
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      5589.10
+------------------------------------------------------
+Receipt IQ synthetic test receipt

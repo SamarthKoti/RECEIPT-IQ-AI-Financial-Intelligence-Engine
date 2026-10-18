@@ -1,0 +1,54 @@
+{
+  "category": "Other",
+  "item_count": 8,
+  "item_sum": "1640",
+  "subtotal": "1640",
+  "tax": "82.00",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "1702.00",
+  "printed_total": "1702.00",
+  "items": [
+    {
+      "name": "Workshop Admission",
+      "quantity": 1,
+      "amount": "450"
+    },
+    {
+      "name": "Craft Materials",
+      "quantity": 1,
+      "amount": "180"
+    },
+    {
+      "name": "Club Membership",
+      "quantity": 1,
+      "amount": "300"
+    },
+    {
+      "name": "Locker Rental",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Printing",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Event Admission",
+      "quantity": 1,
+      "amount": "250"
+    },
+    {
+      "name": "Garden Visit",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Equipment Hire",
+      "quantity": 1,
+      "amount": "200"
+    }
+  ]
+}

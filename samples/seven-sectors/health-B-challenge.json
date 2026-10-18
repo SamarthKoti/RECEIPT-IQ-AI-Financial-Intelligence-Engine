@@ -1,0 +1,344 @@
+{
+  "category": "Health",
+  "item_count": 66,
+  "item_sum": "26181.15",
+  "subtotal": "26043.90",
+  "tax": "1302.20",
+  "fees": "5208.78",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "32433.88",
+  "printed_total": "32683.87",
+  "items": [
+    {
+      "name": "Vitamin Supplement",
+      "quantity": 2,
+      "amount": "600.00"
+    },
+    {
+      "name": "Bandages",
+      "quantity": 2,
+      "amount": "200.00"
+    },
+    {
+      "name": "Thermometer",
+      "quantity": 1,
+      "amount": "350"
+    },
+    {
+      "name": "Hand Sanitizer",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Oral Care Kit",
+      "quantity": 1,
+      "amount": "190"
+    },
+    {
+      "name": "First Aid Kit",
+      "quantity": 1,
+      "amount": "450"
+    },
+    {
+      "name": "Face Masks",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Cotton Pads",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Vitamin Supplement Lot 2",
+      "quantity": 3,
+      "amount": "720.70"
+    },
+    {
+      "name": "Bandages Lot 2",
+      "quantity": 3,
+      "amount": "240.70"
+    },
+    {
+      "name": "Thermometer Lot 2",
+      "quantity": 3,
+      "amount": "1050.70"
+    },
+    {
+      "name": "Hand Sanitizer Lot 2",
+      "quantity": 3,
+      "amount": "360.70"
+    },
+    {
+      "name": "Oral Care Kit Lot 2",
+      "quantity": 3,
+      "amount": "570.70"
+    },
+    {
+      "name": "First Aid Kit Lot 2",
+      "quantity": 3,
+      "amount": "1350.70"
+    },
+    {
+      "name": "Face Masks Lot 2",
+      "quantity": 3,
+      "amount": "300.70"
+    },
+    {
+      "name": "Cotton Pads Lot 2",
+      "quantity": 3,
+      "amount": "180.70"
+    },
+    {
+      "name": "Vitamin Supplement Lot 3",
+      "quantity": 1,
+      "amount": "241.05"
+    },
+    {
+      "name": "Bandages Lot 3",
+      "quantity": 1,
+      "amount": "81.05"
+    },
+    {
+      "name": "Thermometer Lot 3",
+      "quantity": 1,
+      "amount": "351.05"
+    },
+    {
+      "name": "Hand Sanitizer Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Oral Care Kit Lot 3",
+      "quantity": 1,
+      "amount": "191.05"
+    },
+    {
+      "name": "First Aid Kit Lot 3",
+      "quantity": 1,
+      "amount": "451.05"
+    },
+    {
+      "name": "Face Masks Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Cotton Pads Lot 3",
+      "quantity": 1,
+      "amount": "61.05"
+    },
+    {
+      "name": "Vitamin Supplement Lot 4",
+      "quantity": 2,
+      "amount": "481.40"
+    },
+    {
+      "name": "Bandages Lot 4",
+      "quantity": 2,
+      "amount": "161.40"
+    },
+    {
+      "name": "Thermometer Lot 4",
+      "quantity": 2,
+      "amount": "701.40"
+    },
+    {
+      "name": "Hand Sanitizer Lot 4",
+      "quantity": 2,
+      "amount": "241.40"
+    },
+    {
+      "name": "Oral Care Kit Lot 4",
+      "quantity": 2,
+      "amount": "381.40"
+    },
+    {
+      "name": "First Aid Kit Lot 4",
+      "quantity": 2,
+      "amount": "901.40"
+    },
+    {
+      "name": "Face Masks Lot 4",
+      "quantity": 2,
+      "amount": "201.40"
+    },
+    {
+      "name": "Cotton Pads Lot 4",
+      "quantity": 2,
+      "amount": "121.40"
+    },
+    {
+      "name": "Vitamin Supplement Lot 5",
+      "quantity": 3,
+      "amount": "721.75"
+    },
+    {
+      "name": "Bandages Lot 5",
+      "quantity": 3,
+      "amount": "241.75"
+    },
+    {
+      "name": "Thermometer Lot 5",
+      "quantity": 3,
+      "amount": "1051.75"
+    },
+    {
+      "name": "Hand Sanitizer Lot 5",
+      "quantity": 3,
+      "amount": "361.75"
+    },
+    {
+      "name": "Oral Care Kit Lot 5",
+      "quantity": 3,
+      "amount": "571.75"
+    },
+    {
+      "name": "First Aid Kit Lot 5",
+      "quantity": 3,
+      "amount": "1351.75"
+    },
+    {
+      "name": "Face Masks Lot 5",
+      "quantity": 3,
+      "amount": "301.75"
+    },
+    {
+      "name": "Cotton Pads Lot 5",
+      "quantity": 3,
+      "amount": "181.75"
+    },
+    {
+      "name": "Vitamin Supplement Lot 6",
+      "quantity": 1,
+      "amount": "242.10"
+    },
+    {
+      "name": "Bandages Lot 6",
+      "quantity": 1,
+      "amount": "82.10"
+    },
+    {
+      "name": "Thermometer Lot 6",
+      "quantity": 1,
+      "amount": "352.10"
+    },
+    {
+      "name": "Hand Sanitizer Lot 6",
+      "quantity": 1,
+      "amount": "122.10"
+    },
+    {
+      "name": "Oral Care Kit Lot 6",
+      "quantity": 1,
+      "amount": "192.10"
+    },
+    {
+      "name": "First Aid Kit Lot 6",
+      "quantity": 1,
+      "amount": "452.10"
+    },
+    {
+      "name": "Face Masks Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    },
+    {
+      "name": "Cotton Pads Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    },
+    {
+      "name": "Vitamin Supplement Lot 7",
+      "quantity": 2,
+      "amount": "482.45"
+    },
+    {
+      "name": "Bandages Lot 7",
+      "quantity": 2,
+      "amount": "162.45"
+    },
+    {
+      "name": "Thermometer Lot 7",
+      "quantity": 2,
+      "amount": "702.45"
+    },
+    {
+      "name": "Hand Sanitizer Lot 7",
+      "quantity": 2,
+      "amount": "242.45"
+    },
+    {
+      "name": "Oral Care Kit Lot 7",
+      "quantity": 2,
+      "amount": "382.45"
+    },
+    {
+      "name": "First Aid Kit Lot 7",
+      "quantity": 2,
+      "amount": "902.45"
+    },
+    {
+      "name": "Face Masks Lot 7",
+      "quantity": 2,
+      "amount": "202.45"
+    },
+    {
+      "name": "Cotton Pads Lot 7",
+      "quantity": 2,
+      "amount": "122.45"
+    },
+    {
+      "name": "Vitamin Supplement Lot 8",
+      "quantity": 3,
+      "amount": "722.80"
+    },
+    {
+      "name": "Bandages Lot 8",
+      "quantity": 3,
+      "amount": "242.80"
+    },
+    {
+      "name": "Thermometer Lot 8",
+      "quantity": 3,
+      "amount": "1052.80"
+    },
+    {
+      "name": "Hand Sanitizer Lot 8",
+      "quantity": 3,
+      "amount": "362.80"
+    },
+    {
+      "name": "Oral Care Kit Lot 8",
+      "quantity": 3,
+      "amount": "572.80"
+    },
+    {
+      "name": "First Aid Kit Lot 8",
+      "quantity": 3,
+      "amount": "1352.80"
+    },
+    {
+      "name": "Face Masks Lot 8",
+      "quantity": 3,
+      "amount": "302.80"
+    },
+    {
+      "name": "Cotton Pads Lot 8",
+      "quantity": 3,
+      "amount": "182.80"
+    },
+    {
+      "name": "Face Masks Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Cotton Pads Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    }
+  ]
+}

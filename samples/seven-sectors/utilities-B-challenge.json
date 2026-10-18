@@ -1,0 +1,344 @@
+{
+  "category": "Utilities",
+  "item_count": 66,
+  "item_sum": "62575.65",
+  "subtotal": "62438.40",
+  "tax": "3121.92",
+  "fees": "12487.68",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "77927.00",
+  "printed_total": "78176.99",
+  "items": [
+    {
+      "name": "Broadband Internet",
+      "quantity": 2,
+      "amount": "1747.50"
+    },
+    {
+      "name": "Water Supply",
+      "quantity": 2,
+      "amount": "625.00"
+    },
+    {
+      "name": "Electricity",
+      "quantity": 1,
+      "amount": "1250"
+    },
+    {
+      "name": "Mobile Recharge",
+      "quantity": 1,
+      "amount": "299"
+    },
+    {
+      "name": "Waste Collection",
+      "quantity": 1,
+      "amount": "150"
+    },
+    {
+      "name": "Gas Supply",
+      "quantity": 1,
+      "amount": "850"
+    },
+    {
+      "name": "Telephone Plan",
+      "quantity": 1,
+      "amount": "199"
+    },
+    {
+      "name": "Equipment Rental",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Broadband Internet Lot 2",
+      "quantity": 3,
+      "amount": "2097.70"
+    },
+    {
+      "name": "Water Supply Lot 2",
+      "quantity": 3,
+      "amount": "750.70"
+    },
+    {
+      "name": "Electricity Lot 2",
+      "quantity": 3,
+      "amount": "3750.70"
+    },
+    {
+      "name": "Mobile Recharge Lot 2",
+      "quantity": 3,
+      "amount": "897.70"
+    },
+    {
+      "name": "Waste Collection Lot 2",
+      "quantity": 3,
+      "amount": "450.70"
+    },
+    {
+      "name": "Gas Supply Lot 2",
+      "quantity": 3,
+      "amount": "2550.70"
+    },
+    {
+      "name": "Telephone Plan Lot 2",
+      "quantity": 3,
+      "amount": "597.70"
+    },
+    {
+      "name": "Equipment Rental Lot 2",
+      "quantity": 3,
+      "amount": "300.70"
+    },
+    {
+      "name": "Broadband Internet Lot 3",
+      "quantity": 1,
+      "amount": "700.05"
+    },
+    {
+      "name": "Water Supply Lot 3",
+      "quantity": 1,
+      "amount": "251.05"
+    },
+    {
+      "name": "Electricity Lot 3",
+      "quantity": 1,
+      "amount": "1251.05"
+    },
+    {
+      "name": "Mobile Recharge Lot 3",
+      "quantity": 1,
+      "amount": "300.05"
+    },
+    {
+      "name": "Waste Collection Lot 3",
+      "quantity": 1,
+      "amount": "151.05"
+    },
+    {
+      "name": "Gas Supply Lot 3",
+      "quantity": 1,
+      "amount": "851.05"
+    },
+    {
+      "name": "Telephone Plan Lot 3",
+      "quantity": 1,
+      "amount": "200.05"
+    },
+    {
+      "name": "Equipment Rental Lot 3",
+      "quantity": 1,
+      "amount": "101.05"
+    },
+    {
+      "name": "Broadband Internet Lot 4",
+      "quantity": 2,
+      "amount": "1399.40"
+    },
+    {
+      "name": "Water Supply Lot 4",
+      "quantity": 2,
+      "amount": "501.40"
+    },
+    {
+      "name": "Electricity Lot 4",
+      "quantity": 2,
+      "amount": "2501.40"
+    },
+    {
+      "name": "Mobile Recharge Lot 4",
+      "quantity": 2,
+      "amount": "599.40"
+    },
+    {
+      "name": "Waste Collection Lot 4",
+      "quantity": 2,
+      "amount": "301.40"
+    },
+    {
+      "name": "Gas Supply Lot 4",
+      "quantity": 2,
+      "amount": "1701.40"
+    },
+    {
+      "name": "Telephone Plan Lot 4",
+      "quantity": 2,
+      "amount": "399.40"
+    },
+    {
+      "name": "Equipment Rental Lot 4",
+      "quantity": 2,
+      "amount": "201.40"
+    },
+    {
+      "name": "Broadband Internet Lot 5",
+      "quantity": 3,
+      "amount": "2098.75"
+    },
+    {
+      "name": "Water Supply Lot 5",
+      "quantity": 3,
+      "amount": "751.75"
+    },
+    {
+      "name": "Electricity Lot 5",
+      "quantity": 3,
+      "amount": "3751.75"
+    },
+    {
+      "name": "Mobile Recharge Lot 5",
+      "quantity": 3,
+      "amount": "898.75"
+    },
+    {
+      "name": "Waste Collection Lot 5",
+      "quantity": 3,
+      "amount": "451.75"
+    },
+    {
+      "name": "Gas Supply Lot 5",
+      "quantity": 3,
+      "amount": "2551.75"
+    },
+    {
+      "name": "Telephone Plan Lot 5",
+      "quantity": 3,
+      "amount": "598.75"
+    },
+    {
+      "name": "Equipment Rental Lot 5",
+      "quantity": 3,
+      "amount": "301.75"
+    },
+    {
+      "name": "Broadband Internet Lot 6",
+      "quantity": 1,
+      "amount": "701.10"
+    },
+    {
+      "name": "Water Supply Lot 6",
+      "quantity": 1,
+      "amount": "252.10"
+    },
+    {
+      "name": "Electricity Lot 6",
+      "quantity": 1,
+      "amount": "1252.10"
+    },
+    {
+      "name": "Mobile Recharge Lot 6",
+      "quantity": 1,
+      "amount": "301.10"
+    },
+    {
+      "name": "Waste Collection Lot 6",
+      "quantity": 1,
+      "amount": "152.10"
+    },
+    {
+      "name": "Gas Supply Lot 6",
+      "quantity": 1,
+      "amount": "852.10"
+    },
+    {
+      "name": "Telephone Plan Lot 6",
+      "quantity": 1,
+      "amount": "201.10"
+    },
+    {
+      "name": "Equipment Rental Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    },
+    {
+      "name": "Broadband Internet Lot 7",
+      "quantity": 2,
+      "amount": "1400.45"
+    },
+    {
+      "name": "Water Supply Lot 7",
+      "quantity": 2,
+      "amount": "502.45"
+    },
+    {
+      "name": "Electricity Lot 7",
+      "quantity": 2,
+      "amount": "2502.45"
+    },
+    {
+      "name": "Mobile Recharge Lot 7",
+      "quantity": 2,
+      "amount": "600.45"
+    },
+    {
+      "name": "Waste Collection Lot 7",
+      "quantity": 2,
+      "amount": "302.45"
+    },
+    {
+      "name": "Gas Supply Lot 7",
+      "quantity": 2,
+      "amount": "1702.45"
+    },
+    {
+      "name": "Telephone Plan Lot 7",
+      "quantity": 2,
+      "amount": "400.45"
+    },
+    {
+      "name": "Equipment Rental Lot 7",
+      "quantity": 2,
+      "amount": "202.45"
+    },
+    {
+      "name": "Broadband Internet Lot 8",
+      "quantity": 3,
+      "amount": "2099.80"
+    },
+    {
+      "name": "Water Supply Lot 8",
+      "quantity": 3,
+      "amount": "752.80"
+    },
+    {
+      "name": "Electricity Lot 8",
+      "quantity": 3,
+      "amount": "3752.80"
+    },
+    {
+      "name": "Mobile Recharge Lot 8",
+      "quantity": 3,
+      "amount": "899.80"
+    },
+    {
+      "name": "Waste Collection Lot 8",
+      "quantity": 3,
+      "amount": "452.80"
+    },
+    {
+      "name": "Gas Supply Lot 8",
+      "quantity": 3,
+      "amount": "2552.80"
+    },
+    {
+      "name": "Telephone Plan Lot 8",
+      "quantity": 3,
+      "amount": "599.80"
+    },
+    {
+      "name": "Equipment Rental Lot 8",
+      "quantity": 3,
+      "amount": "302.80"
+    },
+    {
+      "name": "Telephone Plan Lot 3",
+      "quantity": 1,
+      "amount": "200.05"
+    },
+    {
+      "name": "Equipment Rental Lot 6",
+      "quantity": 1,
+      "amount": "102.10"
+    }
+  ]
+}

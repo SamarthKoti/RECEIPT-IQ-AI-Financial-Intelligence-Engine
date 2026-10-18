@@ -1,0 +1,21 @@
+DEMO COMMUNITY SERVICES
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+------------------------------------------------------
+1 x Workshop Admission                      450.00
+1 x Craft Materials                         180.00
+1 x Club Membership                         300.00
+1 x Locker Rental                            80.00
+1 x Printing                                 60.00
+1 x Event Admission                         250.00
+1 x Garden Visit                            120.00
+1 x Equipment Hire                          200.00
+------------------------------------------------------
+Subtotal                                   1640.00
+Tax                                          82.00
+Service charge                                0.00
+Discount                                     20.00
+TOTAL                                      1702.00
+------------------------------------------------------
+Receipt IQ synthetic test receipt

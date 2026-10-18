@@ -1,0 +1,136 @@
+DEMO MARATHON GROCERY
+FICTIONAL TEST ONLY - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+Test reference: 06-mega-investigation-120-items
+=============================================================
+2000 ml x Milk                                      180.00
+1 x Bread                                           171.75
+5000 g x Rice                                       950.00
+1 x Coffee Bean                                     273.75
+1 x Brown Lentils                                   324.75
+1 x Red Lentils                                     375.75
+1 x Olive Oil                                       426.75
+1 x Sunflower Oil                                   477.75
+1 x Rolled Oats                                     528.75
+1 x Almonds                                         579.75
+1 x Cashews                                         630.75
+1 x Wheat Flour                                     681.75
+1 x Sugar                                           732.75
+1 x Salt                                            783.75
+1 x Black Tea                                       834.75
+1 x Green Tea                                       885.75
+1 x Yogurt                                          156.75
+1 x Butter                                          207.75
+1 x Cheese                                          258.75
+1 x Apples                                          309.75
+1 x Milk Batch 2                                    360.75
+1 x Bread Batch 2                                   411.75
+1 x Rice Batch 2                                    462.75
+1 x Coffee Beans Batch 2                            513.75
+1 x Brown Lentils Batch 2                           564.75
+1 x Red Lentils Batch 2                             615.75
+1 x Olive Oil Batch 2                               666.75
+1 x Sunflower Oil Batch 2                           717.75
+1 x Rolled Oats Batch 2                             768.75
+1 x Almonds Batch 2                                 819.75
+1 x Cashews Batch 2                                 870.75
+1 x Wheat Flour Batch 2                             141.75
+1 x Sugar Batch 2                                   192.75
+1 x Salt Batch 2                                    243.75
+1 x Black Tea Batch 2                               294.75
+1 x Green Tea Batch 2                               345.75
+1 x Yogurt Batch 2                                  396.75
+1 x Butter Batch 2                                  447.75
+1 x Cheese Batch 2                                  498.75
+1 x Apples Batch 2                                  549.75
+1 x Milk Batch 3                                    600.75
+1 x Bread Batch 3                                   651.75
+1 x Rice Batch 3                                    702.75
+1 x Coffee Beans Batch 3                            753.75
+1 x Brown Lentils Batch 3                           804.75
+1 x Red Lentils Batch 3                             855.75
+1 x Olive Oil Batch 3                               126.75
+1 x Sunflower Oil Batch 3                           177.75
+1 x Rolled Oats Batch 3                             228.75
+1 x Almonds Batch 3                                 279.75
+1 x Cashews Batch 3                                 330.75
+1 x Wheat Flour Batch 3                             381.75
+1 x Sugar Batch 3                                   432.75
+1 x Salt Batch 3                                    483.75
+1 x Black Tea Batch 3                               534.75
+1 x Green Tea Batch 3                               585.75
+1 x Yogurt Batch 3                                  636.75
+1 x Butter Batch 3                                  687.75
+1 x Cheese Batch 3                                  738.75
+1 x Apples Batch 3                                  789.75
+1 x Milk Batch 4                                    840.75
+1 x Bread Batch 4                                   891.75
+1 x Rice Batch 4                                    162.75
+1 x Coffee Beans Batch 4                            213.75
+1 x Brown Lentils Batch 4                           264.75
+1 x Red Lentils Batch 4                             315.75
+1 x Olive Oil Batch 4                               366.75
+1 x Sunflower Oil Batch 4                           417.75
+1 x Rolled Oats Batch 4                             468.75
+1 x Almonds Batch 4                                 519.75
+1 x Cashews Batch 4                                 570.75
+1 x Wheat Flour Batch 4                             621.75
+1 x Sugar Batch 4                                   672.75
+1 x Salt Batch 4                                    723.75
+1 x Black Tea Batch 4                               774.75
+1 x Green Tea Batch 4                               825.75
+1 x Yogurt Batch 4                                  876.75
+1 x Butter Batch 4                                  147.75
+1 x Cheese Batch 4                                  198.75
+1 x Apples Batch 4                                  249.75
+1 x Milk Batch 5                                    300.75
+1 x Bread Batch 5                                   351.75
+1 x Rice Batch 5                                    402.75
+1 x Coffee Beans Batch 5                            453.75
+1 x Brown Lentils Batch 5                           504.75
+1 x Red Lentils Batch 5                             555.75
+1 x Olive Oil Batch 5                               606.75
+1 x Sunflower Oil Batch 5                           657.75
+1 x Rolled Oats Batch 5                             708.75
+1 x Almonds Batch 5                                 759.75
+1 x Cashews Batch 5                                 810.75
+1 x Cashews Batch 5                                 810.75
+1 x Sugar Batch 5                                   132.75
+1 x Salt Batch 5                                    183.75
+1 x Black Tea Batch 5                               234.75
+1 x Green Tea Batch 5                               285.75
+1 x Yogurt Batch 5                                  336.75
+1 x Butter Batch 5                                  387.75
+1 x Cheese Batch 5                                  438.75
+1 x Apples Batch 5                                  489.75
+1 x Milk Batch 6                                    540.75
+1 x Bread Batch 6                                   591.75
+1 x Rice Batch 6                                    642.75
+1 x Coffee Beans Batch 6                            693.75
+1 x Brown Lentils Batch 6                           744.75
+1 x Red Lentils Batch 6                             795.75
+1 x Olive Oil Batch 6                               846.75
+1 x Sunflower Oil Batch 6                           897.75
+1 x Rolled Oats Batch 6                             168.75
+1 x Almonds Batch 6                                 219.75
+1 x Cashews Batch 6                                 270.75
+1 x Cashews Batch 6                                 270.75
+1 x Sugar Batch 6                                   372.75
+1 x Salt Batch 6                                    423.75
+1 x Black Tea Batch 6                               474.75
+1 x Green Tea Batch 6                               525.75
+1 x Yogurt Batch 6                                  576.75
+1 x Butter Batch 6                                  627.75
+1 x Cheese Batch 6                                  678.75
+1 x Apples Batch 6                                  729.75
+=============================================================
+Subtotal                                         60,724.75
+CGST                                              1,518.12
+SGST                                              1,518.12
+Service charge                                   15,000.00
+Discount                                            125.75
+Rounding                                             -0.25
+TOTAL                                            79,134.98
+Paid by card - fictional transaction
+Receipt IQ stress-test fixture only

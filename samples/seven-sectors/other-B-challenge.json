@@ -1,0 +1,344 @@
+{
+  "category": "Other",
+  "item_count": 66,
+  "item_sum": "27606.15",
+  "subtotal": "27468.90",
+  "tax": "1373.44",
+  "fees": "5493.78",
+  "discount": "120.75",
+  "rounding": "-0.25",
+  "expected_total": "34215.12",
+  "printed_total": "34465.11",
+  "items": [
+    {
+      "name": "Workshop Admission",
+      "quantity": 2,
+      "amount": "1125.00"
+    },
+    {
+      "name": "Craft Materials",
+      "quantity": 2,
+      "amount": "450.00"
+    },
+    {
+      "name": "Club Membership",
+      "quantity": 1,
+      "amount": "300"
+    },
+    {
+      "name": "Locker Rental",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Printing",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Event Admission",
+      "quantity": 1,
+      "amount": "250"
+    },
+    {
+      "name": "Garden Visit",
+      "quantity": 1,
+      "amount": "120"
+    },
+    {
+      "name": "Equipment Hire",
+      "quantity": 1,
+      "amount": "200"
+    },
+    {
+      "name": "Workshop Admission Lot 2",
+      "quantity": 3,
+      "amount": "1350.70"
+    },
+    {
+      "name": "Craft Materials Lot 2",
+      "quantity": 3,
+      "amount": "540.70"
+    },
+    {
+      "name": "Club Membership Lot 2",
+      "quantity": 3,
+      "amount": "900.70"
+    },
+    {
+      "name": "Locker Rental Lot 2",
+      "quantity": 3,
+      "amount": "240.70"
+    },
+    {
+      "name": "Printing Lot 2",
+      "quantity": 3,
+      "amount": "180.70"
+    },
+    {
+      "name": "Event Admission Lot 2",
+      "quantity": 3,
+      "amount": "750.70"
+    },
+    {
+      "name": "Garden Visit Lot 2",
+      "quantity": 3,
+      "amount": "360.70"
+    },
+    {
+      "name": "Equipment Hire Lot 2",
+      "quantity": 3,
+      "amount": "600.70"
+    },
+    {
+      "name": "Workshop Admission Lot 3",
+      "quantity": 1,
+      "amount": "451.05"
+    },
+    {
+      "name": "Craft Materials Lot 3",
+      "quantity": 1,
+      "amount": "181.05"
+    },
+    {
+      "name": "Club Membership Lot 3",
+      "quantity": 1,
+      "amount": "301.05"
+    },
+    {
+      "name": "Locker Rental Lot 3",
+      "quantity": 1,
+      "amount": "81.05"
+    },
+    {
+      "name": "Printing Lot 3",
+      "quantity": 1,
+      "amount": "61.05"
+    },
+    {
+      "name": "Event Admission Lot 3",
+      "quantity": 1,
+      "amount": "251.05"
+    },
+    {
+      "name": "Garden Visit Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Equipment Hire Lot 3",
+      "quantity": 1,
+      "amount": "201.05"
+    },
+    {
+      "name": "Workshop Admission Lot 4",
+      "quantity": 2,
+      "amount": "901.40"
+    },
+    {
+      "name": "Craft Materials Lot 4",
+      "quantity": 2,
+      "amount": "361.40"
+    },
+    {
+      "name": "Club Membership Lot 4",
+      "quantity": 2,
+      "amount": "601.40"
+    },
+    {
+      "name": "Locker Rental Lot 4",
+      "quantity": 2,
+      "amount": "161.40"
+    },
+    {
+      "name": "Printing Lot 4",
+      "quantity": 2,
+      "amount": "121.40"
+    },
+    {
+      "name": "Event Admission Lot 4",
+      "quantity": 2,
+      "amount": "501.40"
+    },
+    {
+      "name": "Garden Visit Lot 4",
+      "quantity": 2,
+      "amount": "241.40"
+    },
+    {
+      "name": "Equipment Hire Lot 4",
+      "quantity": 2,
+      "amount": "401.40"
+    },
+    {
+      "name": "Workshop Admission Lot 5",
+      "quantity": 3,
+      "amount": "1351.75"
+    },
+    {
+      "name": "Craft Materials Lot 5",
+      "quantity": 3,
+      "amount": "541.75"
+    },
+    {
+      "name": "Club Membership Lot 5",
+      "quantity": 3,
+      "amount": "901.75"
+    },
+    {
+      "name": "Locker Rental Lot 5",
+      "quantity": 3,
+      "amount": "241.75"
+    },
+    {
+      "name": "Printing Lot 5",
+      "quantity": 3,
+      "amount": "181.75"
+    },
+    {
+      "name": "Event Admission Lot 5",
+      "quantity": 3,
+      "amount": "751.75"
+    },
+    {
+      "name": "Garden Visit Lot 5",
+      "quantity": 3,
+      "amount": "361.75"
+    },
+    {
+      "name": "Equipment Hire Lot 5",
+      "quantity": 3,
+      "amount": "601.75"
+    },
+    {
+      "name": "Workshop Admission Lot 6",
+      "quantity": 1,
+      "amount": "452.10"
+    },
+    {
+      "name": "Craft Materials Lot 6",
+      "quantity": 1,
+      "amount": "182.10"
+    },
+    {
+      "name": "Club Membership Lot 6",
+      "quantity": 1,
+      "amount": "302.10"
+    },
+    {
+      "name": "Locker Rental Lot 6",
+      "quantity": 1,
+      "amount": "82.10"
+    },
+    {
+      "name": "Printing Lot 6",
+      "quantity": 1,
+      "amount": "62.10"
+    },
+    {
+      "name": "Event Admission Lot 6",
+      "quantity": 1,
+      "amount": "252.10"
+    },
+    {
+      "name": "Garden Visit Lot 6",
+      "quantity": 1,
+      "amount": "122.10"
+    },
+    {
+      "name": "Equipment Hire Lot 6",
+      "quantity": 1,
+      "amount": "202.10"
+    },
+    {
+      "name": "Workshop Admission Lot 7",
+      "quantity": 2,
+      "amount": "902.45"
+    },
+    {
+      "name": "Craft Materials Lot 7",
+      "quantity": 2,
+      "amount": "362.45"
+    },
+    {
+      "name": "Club Membership Lot 7",
+      "quantity": 2,
+      "amount": "602.45"
+    },
+    {
+      "name": "Locker Rental Lot 7",
+      "quantity": 2,
+      "amount": "162.45"
+    },
+    {
+      "name": "Printing Lot 7",
+      "quantity": 2,
+      "amount": "122.45"
+    },
+    {
+      "name": "Event Admission Lot 7",
+      "quantity": 2,
+      "amount": "502.45"
+    },
+    {
+      "name": "Garden Visit Lot 7",
+      "quantity": 2,
+      "amount": "242.45"
+    },
+    {
+      "name": "Equipment Hire Lot 7",
+      "quantity": 2,
+      "amount": "402.45"
+    },
+    {
+      "name": "Workshop Admission Lot 8",
+      "quantity": 3,
+      "amount": "1352.80"
+    },
+    {
+      "name": "Craft Materials Lot 8",
+      "quantity": 3,
+      "amount": "542.80"
+    },
+    {
+      "name": "Club Membership Lot 8",
+      "quantity": 3,
+      "amount": "902.80"
+    },
+    {
+      "name": "Locker Rental Lot 8",
+      "quantity": 3,
+      "amount": "242.80"
+    },
+    {
+      "name": "Printing Lot 8",
+      "quantity": 3,
+      "amount": "182.80"
+    },
+    {
+      "name": "Event Admission Lot 8",
+      "quantity": 3,
+      "amount": "752.80"
+    },
+    {
+      "name": "Garden Visit Lot 8",
+      "quantity": 3,
+      "amount": "362.80"
+    },
+    {
+      "name": "Equipment Hire Lot 8",
+      "quantity": 3,
+      "amount": "602.80"
+    },
+    {
+      "name": "Garden Visit Lot 3",
+      "quantity": 1,
+      "amount": "121.05"
+    },
+    {
+      "name": "Equipment Hire Lot 6",
+      "quantity": 1,
+      "amount": "202.10"
+    }
+  ]
+}

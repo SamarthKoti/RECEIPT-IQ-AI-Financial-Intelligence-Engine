@@ -1,0 +1,81 @@
+DEMO CLOTHING RETAIL STORE
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-18
+Currency: INR
+------------------------------------------------------
+2 x Cotton Shirt                           1997.50
+2 x Jeans                                  3247.50
+1 x Socks                                   149.00
+1 x Belt                                    399.00
+1 x Shoes                                  1799.00
+1 x Cap                                     249.00
+1 x Scarf                                   349.00
+1 x Tote Bag                                299.00
+3 x Cotton Shirt Lot 2                     2397.70
+3 x Jeans Lot 2                            3897.70
+3 x Socks Lot 2                             447.70
+3 x Belt Lot 2                             1197.70
+3 x Shoes Lot 2                            5397.70
+3 x Cap Lot 2                               747.70
+3 x Scarf Lot 2                            1047.70
+3 x Tote Bag Lot 2                          897.70
+1 x Cotton Shirt Lot 3                      800.05
+1 x Jeans Lot 3                            1300.05
+1 x Socks Lot 3                             150.05
+1 x Belt Lot 3                              400.05
+1 x Shoes Lot 3                            1800.05
+1 x Cap Lot 3                               250.05
+1 x Scarf Lot 3                             350.05
+1 x Tote Bag Lot 3                          300.05
+2 x Cotton Shirt Lot 4                     1599.40
+2 x Jeans Lot 4                            2599.40
+2 x Socks Lot 4                             299.40
+2 x Belt Lot 4                              799.40
+2 x Shoes Lot 4                            3599.40
+2 x Cap Lot 4                               499.40
+2 x Scarf Lot 4                             699.40
+2 x Tote Bag Lot 4                          599.40
+3 x Cotton Shirt Lot 5                     2398.75
+3 x Jeans Lot 5                            3898.75
+3 x Socks Lot 5                             448.75
+3 x Belt Lot 5                             1198.75
+3 x Shoes Lot 5                            5398.75
+3 x Cap Lot 5                               748.75
+3 x Scarf Lot 5                            1048.75
+3 x Tote Bag Lot 5                          898.75
+1 x Cotton Shirt Lot 6                      801.10
+1 x Jeans Lot 6                            1301.10
+1 x Socks Lot 6                             151.10
+1 x Belt Lot 6                              401.10
+1 x Shoes Lot 6                            1801.10
+1 x Cap Lot 6                               251.10
+1 x Scarf Lot 6                             351.10
+1 x Tote Bag Lot 6                          301.10
+2 x Cotton Shirt Lot 7                     1600.45
+2 x Jeans Lot 7                            2600.45
+2 x Socks Lot 7                             300.45
+2 x Belt Lot 7                              800.45
+2 x Shoes Lot 7                            3600.45
+2 x Cap Lot 7                               500.45
+2 x Scarf Lot 7                             700.45
+2 x Tote Bag Lot 7                          600.45
+3 x Cotton Shirt Lot 8                     2399.80
+3 x Jeans Lot 8                            3899.80
+3 x Socks Lot 8                             449.80
+3 x Belt Lot 8                             1199.80
+3 x Shoes Lot 8                            5399.80
+3 x Cap Lot 8                               749.80
+3 x Scarf Lot 8                            1049.80
+3 x Tote Bag Lot 8                          899.80
+1 x Scarf Lot 3                             350.05
+1 x Tote Bag Lot 6                          301.10
+------------------------------------------------------
+Subtotal                                  89230.90
+CGST                                       2230.77
+SGST                                       2230.77
+Service charge                            17846.18
+Discount                                    120.75
+Rounding                                     -0.25
+TOTAL                                    111667.61
+------------------------------------------------------
+Receipt IQ synthetic test receipt

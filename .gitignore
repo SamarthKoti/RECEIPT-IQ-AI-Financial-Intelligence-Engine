@@ -1,0 +1,39 @@
+# Python Virtual Environment
+.venv/
+venv/
+
+# Node.js Dependencies
+node_modules/
+dist/
+build/
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment Variables (IMPORTANT)
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# User Data
+data/
+uploads/
+backend/uploads/
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/

@@ -1,0 +1,15 @@
+DEMO PHARMACY
+FICTIONAL DEMO - NOT VALID FOR PAYMENT
+Date: 2026-10-10
+Currency: INR
+----------------------------------------
+1 x Vitamins                    250.00
+----------------------------------------
+Subtotal                        250.00
+Tax                               0.00
+Service charge                    0.00
+Discount                          0.00
+Rounding                          0.00
+TOTAL                           250.00
+----------------------------------------
+Receipt IQ testing sample only

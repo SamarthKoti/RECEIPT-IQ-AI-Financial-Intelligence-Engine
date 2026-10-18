@@ -1,0 +1,54 @@
+{
+  "category": "Transport",
+  "item_count": 8,
+  "item_sum": "1100",
+  "subtotal": "1100",
+  "tax": "55.00",
+  "fees": "0",
+  "discount": "20.00",
+  "rounding": "0",
+  "expected_total": "1135.00",
+  "printed_total": "1135.00",
+  "items": [
+    {
+      "name": "Metro ticket",
+      "quantity": 1,
+      "amount": "60"
+    },
+    {
+      "name": "Bus ticket",
+      "quantity": 1,
+      "amount": "40"
+    },
+    {
+      "name": "Airport shuttle",
+      "quantity": 1,
+      "amount": "350"
+    },
+    {
+      "name": "Taxi ride",
+      "quantity": 1,
+      "amount": "220"
+    },
+    {
+      "name": "Parking",
+      "quantity": 1,
+      "amount": "80"
+    },
+    {
+      "name": "Toll",
+      "quantity": 1,
+      "amount": "100"
+    },
+    {
+      "name": "Train ticket",
+      "quantity": 1,
+      "amount": "180"
+    },
+    {
+      "name": "Bicycle rental",
+      "quantity": 1,
+      "amount": "70"
+    }
+  ]
+}
