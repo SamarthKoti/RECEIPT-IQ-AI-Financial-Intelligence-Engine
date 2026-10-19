@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: receipt-iq
+    runtime: docker
+    plan: free
+    region: singapore
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: STORAGE_BACKEND
+        value: supabase
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SECRET_KEY
+        sync: false
+      - key: SUPABASE_BUCKET
+        value: receipts
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: SERVE_FRONTEND
+        value: "true"

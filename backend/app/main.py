@@ -3,6 +3,7 @@ import hashlib
 import io
 import time
 import uuid
+import logging
 from collections import defaultdict, deque
 from decimal import Decimal
 from datetime import date, timedelta
@@ -25,6 +26,7 @@ from .engines.categorizer import categorize
 from .engines.prices import normalize, unit_price
 from .service import serialize, investigation
 from .analytics import detailed_analytics
+from . import object_storage
 
 app = FastAPI(title='Receipt IQ', version='1.0.0')
 storage = Path(settings.storage_dir).resolve()
@@ -142,6 +144,7 @@ def upload(file: UploadFile = File(...), user: User = Depends(current_user), db:
     except Exception as exc:
         path.unlink(missing_ok=True)
         raise HTTPException(422, str(exc) if isinstance(exc, ValueError) else 'Unable to decode this file. Use a valid image or single-page PDF.')
+    uploaded = False
     try:
         ocr = extract(path)
         parsed = parse_receipt(ocr['text'])
@@ -151,12 +154,22 @@ def upload(file: UploadFile = File(...), user: User = Depends(current_user), db:
         if parsed['total'] is None or parsed['purchase_date'] is None:
             warnings = warnings + ['The date or total could not be extracted. Enter the missing details before confirming.']
         receipt = Receipt(user_id=user.id, **parsed, category=category['category'], currency=user.currency, file_hash=hashlib.sha256(content).hexdigest(), file_name=name, original_name=(file.filename or 'receipt')[:255], raw_text=ocr['text'], ocr_lines=ocr['lines'], confidence=ocr['confidence'], warnings=warnings, items=[Item(**i) for i in items])
+        if settings.storage_backend == 'supabase':
+            object_storage.upload_image(path)
+            uploaded = True
         db.add(receipt)
         db.commit()
     except Exception:
         db.rollback()
+        if uploaded:
+            try:
+                object_storage.remove_image(name)
+            except Exception:
+                logging.getLogger(__name__).error('Orphan receipt object needs cleanup: %s', name)
         path.unlink(missing_ok=True)
         raise
+    if settings.storage_backend == 'supabase':
+        path.unlink(missing_ok=True)
     return serialize(receipt)
 
 @app.get('/api/receipts')
@@ -174,6 +187,8 @@ def detail(receipt_id: int, user: User = Depends(current_user), db: DBSession = 
 @app.get('/api/receipts/{receipt_id}/image')
 def image(receipt_id: int, user: User = Depends(current_user), db: DBSession = Depends(get_db)):
     receipt = owned(db, user, receipt_id)
+    if settings.storage_backend == 'supabase':
+        return Response(object_storage.download_image(receipt.file_name), media_type='image/png')
     return FileResponse(storage / receipt.file_name, media_type='image/png')
 
 @app.patch('/api/receipts/{receipt_id}')
@@ -279,3 +294,9 @@ def export(receipt_id: int | None = None, user: User = Depends(current_user), db
         for finding in findings or [{}]:
             writer.writerow([safe(x) for x in [receipt.id, receipt.merchant, receipt.purchase_date, receipt.category, receipt.currency, receipt.total, receipt.status, finding.get('title'), finding.get('evidence'), finding.get('state')]])
     return StreamingResponse(iter([output.getvalue()]), media_type='text/csv', headers={'Content-Disposition': 'attachment; filename="receipt-iq-report.csv"'})
+
+
+if settings.serve_frontend:
+    from .config import PROJECT_ROOT
+    from .frontend import FrontendFiles
+    app.mount('/', FrontendFiles(directory=PROJECT_ROOT / 'frontend' / 'dist', html=True), name='frontend')

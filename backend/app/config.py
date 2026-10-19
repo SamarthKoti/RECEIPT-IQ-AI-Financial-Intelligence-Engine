@@ -1,6 +1,7 @@
 from pathlib import Path
 from urllib.parse import urlsplit
-from pydantic import field_validator
+from pydantic import field_validator, SecretStr
+from typing import Literal
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -14,6 +15,11 @@ class Settings(BaseSettings):
     cookie_secure: bool = False
     session_hours: int = 24
     tesseract_cmd: str | None = None
+    storage_backend: Literal['local', 'supabase'] = 'local'
+    supabase_url: str | None = None
+    supabase_secret_key: SecretStr | None = None
+    supabase_bucket: str = 'receipts'
+    serve_frontend: bool = False
     model_config = SettingsConfigDict(env_file=PROJECT_ROOT / '.env', extra='ignore')
 
     @field_validator('frontend_origin')
